@@ -1,0 +1,10 @@
+#!/bin/bash
+bl start
+blblb
+sasda
+dsa
+das
+sda
+dsa
+bl end
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+fc start
+fc 
+fc 
+fc 
+fc 
+fc 
+fc 
+fc end
+
